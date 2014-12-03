@@ -1,1 +1,3 @@
 hidding.a
+build/*
+!build/README.md
